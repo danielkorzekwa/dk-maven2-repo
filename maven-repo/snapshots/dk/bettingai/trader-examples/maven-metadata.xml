@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>dk.bettingai</groupId>
+  <artifactId>trader-examples</artifactId>
+  <version>1.2-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20101124100921</lastUpdated>
+  </versioning>
+</metadata>
