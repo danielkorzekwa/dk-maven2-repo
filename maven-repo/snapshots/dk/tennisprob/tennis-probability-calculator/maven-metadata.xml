@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>dk.tennisprob</groupId>
+  <artifactId>tennis-probability-calculator</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20111229120714</lastUpdated>
+  </versioning>
+</metadata>
