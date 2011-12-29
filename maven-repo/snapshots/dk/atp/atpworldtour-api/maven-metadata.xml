@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>dk.atp</groupId>
+  <artifactId>atpworldtour-api</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20111229121000</lastUpdated>
+  </versioning>
+</metadata>
