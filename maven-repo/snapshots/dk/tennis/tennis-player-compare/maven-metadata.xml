@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>dk.tennis</groupId>
+  <artifactId>tennis-player-compare</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120120095635</lastUpdated>
+  </versioning>
+</metadata>
